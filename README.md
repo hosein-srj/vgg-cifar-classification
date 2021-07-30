@@ -18,4 +18,5 @@
 
 <h3> 	VGG-16 on CIFAR-10 with 70 epoch    </h3>
 
-![image](https://user-images.githubusercontent.com/54143711/127670232-83492367-9a65-41ee-9870-f8a72bf33625.png)
+![image](https://user-images.githubusercontent.com/54143711/127671130-bc843c43-901c-4ad3-af0e-61a63751eacf.png)
+
